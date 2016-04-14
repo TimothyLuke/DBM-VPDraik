@@ -1,0 +1,14 @@
+﻿## Interface: 60200
+## X-Min-Interface: 60200
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Draik|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Draik|r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Draik|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Draik
+## Version: 6.2.4
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Draik
+## X-DBM-Voice-ShortName: Draik
+## X-DBM-Voice-Version: 5
+## X-DBM-Voice-HasCount: 1
