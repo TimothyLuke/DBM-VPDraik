@@ -1,12 +1,12 @@
-﻿## Interface: 60200
-## X-Min-Interface: 60200
+﻿## Interface: 70000
+## X-Min-Interface: 70000
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Draik|r
 ## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Draik|r
 ## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Draik|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Draik
-## Version: 6.2.4
+## Version: 7.0.3
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Draik Australian English Recorded
 ## X-DBM-Voice-ShortName: Draik
