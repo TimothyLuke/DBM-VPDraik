@@ -6,9 +6,9 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Draik
-## Version: 7.0.3
+## Version: 7.0.3.1
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Draik Australian English Recorded
 ## X-DBM-Voice-ShortName: Draik
-## X-DBM-Voice-Version: 5
+## X-DBM-Voice-Version: 6
 ## X-DBM-Voice-HasCount: 1
