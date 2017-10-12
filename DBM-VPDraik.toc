@@ -1,14 +1,14 @@
 ﻿## Interface: 70000
 ## X-Min-Interface: 70000
-## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Draik|r
-## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Draik|r
-## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Draik|r
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack TimothyLuke (Draik)|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack TimothyLuke (Draik)r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack TimothyLuke (Draik)r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
-## Author: Draik
-## Version: 7.0.3.1
+## Author: TimothyLuke (Draik)
+## Version: 7.3.1
 ## X-DBM-Voice: 1
-## X-DBM-Voice-Name: Draik Australian English Recorded
-## X-DBM-Voice-ShortName: Draik
-## X-DBM-Voice-Version: 6
+## X-DBM-Voice-Name: TimothyLuke Australian English Recorded
+## X-DBM-Voice-ShortName: TimothyLuke
+## X-DBM-Voice-Version: 7
 ## X-DBM-Voice-HasCount: 1
