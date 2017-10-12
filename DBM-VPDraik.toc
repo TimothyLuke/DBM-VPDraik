@@ -6,7 +6,7 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: TimothyLuke (Draik)
-## Version: 7.3.1
+## Version: 7.3.0.1
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: TimothyLuke Australian English Recorded
 ## X-DBM-Voice-ShortName: TimothyLuke
